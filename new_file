@@ -1,0 +1,6 @@
+total 24
+drwxr-xr-x  13 tobari  staff   416B  1 31 11:32 .git/
+-rw-r--r--   1 tobari  staff   483B  1 31 11:27 .gitattributes
+-rw-r--r--   1 tobari  staff   2.6K  1 31 11:27 .gitignore
+-rw-r--r--   1 tobari  staff     0B  1 31 11:32 new_file
+-rw-r--r--   1 tobari  staff    13B  1 31 11:27 sample.txt
